@@ -21,3 +21,6 @@ header{
     color:#000;
     text-decoration: none;
 }
+.favoritos:hover, .logo:hover{
+    opacity: 0.9;
+}
