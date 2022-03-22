@@ -10,6 +10,7 @@
 
 # :eyes: Demonstração
  <img src="./assets/20220322_022318.gif">
+ Hospedado em: https://projeto-filmaria-ismael.netlify.app/
 
 # :computer: Tecnologias
 Esse projeto foi feito em:
@@ -44,7 +45,7 @@ $ yarn dev
 cd backend 
 $ yarn dev
 ```
-Go to http://localhost:3000/ to see the result.
+Vá para http://localhost:3000/ para ver o resultado.
 
 
 
