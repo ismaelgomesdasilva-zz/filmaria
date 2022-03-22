@@ -25,7 +25,7 @@ Projeto de catologos de filmes, Nele é possivel adicionar a lista de favoritos,
 
 
 
-# :construction_worker: Como rodar
+# :construction_worker: Clone o Repositorio
 ```bash
 # Clone Repository
 $ git clone https://github.com/ismaelgomesdasilva/filmaria.git
@@ -37,15 +37,6 @@ $ git clone https://github.com/ismaelgomesdasilva/filmaria.git
 # Install Dependencies
 $ yarn install or npm install
 
-# Run Aplication Frontend
-cd frontend
-$ yarn dev
-
-# Run Aplication Backend
-cd backend 
-$ yarn dev
-```
-Vá para http://localhost:3000/ para ver o resultado.
 
 
 
