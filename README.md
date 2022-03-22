@@ -24,13 +24,13 @@ Projeto de catologos de filmes, Nele é possivel adicionar a lista de favoritos,
 
 
 
-# :construction_worker: How to run
+# :construction_worker: Como rodar
 ```bash
 # Clone Repository
 $ git clone https://github.com/ismaelgomesdasilva/filmaria.git
 ```
 
-### 💻 Run Web Project
+### 💻 Executar projeto da Web
 
 ```bash
 # Install Dependencies
